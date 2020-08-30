@@ -1,0 +1,1 @@
+I have some experience with HTML and CSS but I decided to try this project to see how much I actually know. After I am finished with this project, I want to have been able to successfully create a navbar, footer and center the logo and search field.
